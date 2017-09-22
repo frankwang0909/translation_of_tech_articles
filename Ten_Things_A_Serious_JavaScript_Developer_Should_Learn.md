@@ -1,6 +1,6 @@
-# Ten Things A Serious JavaScript Developer Should Learn
+# Ten Things A Serious JavaScript Developer Should Learn   JS开发者应该学会的10 件事
 
-## 1. You should know the core language  1.熟悉 JavaScript语言的核心内容
+## 1. You should know the core language  熟悉 JavaScript语言的核心内容
 
 JavaScript is not a very complicated language at its core. It can seem difficult to learn because of all of the noise around it. Browser APIs, Library APIs, jQuery, React, TypeScript, the many npm packages out there, etc all can make the language syntax space seem huge. And this isn’t helped by the fact that the language has evolved over time so you’ll see many different ways to do a single task spread out over the internet. But the core language and standard libraries are actually pretty small compared to languages like Python and Java that have more features and larger standard libraries. Eventually you’ll need the ecosystem. But knowing the core language features that are implemented in most browsers is a great start.
 
