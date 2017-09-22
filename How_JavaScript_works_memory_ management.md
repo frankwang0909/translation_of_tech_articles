@@ -668,4 +668,4 @@ There is a free plan so you can [give it a try now](https://www.sessionstack.com
 
 
 
-原文链接：https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
+原文链接：[How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
